@@ -1,0 +1,22 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\bin\Debug\Business.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\bin\Debug\Business.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\bin\Debug\Data.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\bin\Debug\Entity.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\bin\Debug\Data.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\bin\Debug\Entity.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\obj\Debug\Business.csproj.CopyComplete
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\obj\Debug\Business.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Business\obj\Debug\Business.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\bin\Debug\Business.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\bin\Debug\Business.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\bin\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\bin\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\obj\Debug\Business.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Business\obj\Debug\Business.pdb

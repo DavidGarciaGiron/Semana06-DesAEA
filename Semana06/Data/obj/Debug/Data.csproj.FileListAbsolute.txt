@@ -1,0 +1,18 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\bin\Debug\Data.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\bin\Debug\Data.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\bin\Debug\Entity.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\bin\Debug\Entity.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\obj\Debug\Data.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Data\obj\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\bin\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\bin\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\obj\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Data\obj\Debug\Data.pdb

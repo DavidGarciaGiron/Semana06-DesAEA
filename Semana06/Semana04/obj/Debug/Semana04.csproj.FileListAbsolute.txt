@@ -1,0 +1,60 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\MainWindow.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\App.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04_MarkupCompile.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04_MarkupCompile.lref
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Semana04.exe.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Semana04.exe
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Semana04.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Business.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Entity.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Data.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Business.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Entity.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\bin\Debug\Data.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\MainWindow.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.g.resources
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.Properties.Resources.resources
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.csproj.GenerateResource.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.csproj.CoreCompileInputs.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.csproj.CopyComplete
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.exe
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ListaCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ManCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ListaCategoria.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ManCategoria.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ListaCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ManCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ListaCategoria.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ManCategoria.baml
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Semana04.exe.config
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Semana04.exe
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Semana04.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Business.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Entity.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Data.dll
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Business.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Entity.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\bin\Debug\Data.pdb
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\ListaCategoria.g.cs
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\MainWindow.g.cs
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\ManCategoria.g.cs
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\View\ListaCategoria.g.cs
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\View\ManCategoria.g.cs
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\App.g.cs
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04_MarkupCompile.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04_MarkupCompile.lref
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\ListaCategoria.baml
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\MainWindow.baml
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\ManCategoria.baml
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\View\ListaCategoria.baml
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\View\ManCategoria.baml
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.g.resources
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.Properties.Resources.resources
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.csproj.GenerateResource.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.csproj.CopyComplete
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.exe
+C:\Users\david\Documents\6to\DesAEA\S6\Semana06\Semana04\obj\Debug\Semana04.pdb
